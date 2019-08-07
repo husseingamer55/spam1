@@ -10,4 +10,4 @@ channel.send(`I Love JLFX_Gamer`);
 }, 30)
 })
 
-client.login("NTExMjI3ODQ5NjUxNTE5NDg5.XUq9gg.osa1NKRUkYtmizGMgBGLCji1rvA");
+client.login("NTg2MjI3NDkwNzQyMjA2NDc1.XUrCLg._1Xxs69yNMSVzr1AOa6LVEu2Oss");
